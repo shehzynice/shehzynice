@@ -1,7 +1,7 @@
 # Hi there, I'm Shehzy! :wave:
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=farhan955&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan955&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shehzynice&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehzynice&layout=compact"/>
 <img  width="87%"></p>
 
 ## Languages
